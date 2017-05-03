@@ -6,6 +6,8 @@
 OLED GND - NodeMCU GND
 OLED SCL - NodeMCU D1
 OLED SDA - NodeMCU D2
+See page on
+http://arduino-er.blogspot.com/2016/04/nodemcu-esp8266-to-display-on-128x64.html
 */
 #define OLED_RESET LED_BUILTIN //4
 /*
